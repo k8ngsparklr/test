@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Make Request
         run: |
-          curl -I "https://ideal-orbit-x5vwvp4w49q5fvqx4.github.dev/"
+          curl -I "https://github.com/k8ngsparklr/tesop/actions/runs/11709139140"
